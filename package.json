@@ -1,5 +1,5 @@
 {
-  "name": "lilesper/smart-order-router",
+  "name": "smart-order-router",
   "version": "3.10.2",
   "description": "Potionswap Smart Order Router",
   "main": "build/main/index.js",
